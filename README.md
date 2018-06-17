@@ -16,3 +16,6 @@ A experiment of software process and management
     根据自己的编程习惯和缺陷，建立自己的代码规范和代码评审标准。
     1、“代码规范.docx”--基于java的个人代码规范
     2、“代码评审标准.docx”--基于java的个人代码评审标准
+
+
+
